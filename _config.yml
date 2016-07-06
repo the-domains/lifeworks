@@ -1,0 +1,14 @@
+layout_spectrum: 0.6535391951911151
+typography_spectrum: 0.40569065790623426
+color:
+  brandStrength: 0.6880181103479117
+  lightness: 0.8154318744782358
+  saturation: 0.38653793884441257
+  rhythmicContrast: 0.46201696270145476
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: Lifeworks
